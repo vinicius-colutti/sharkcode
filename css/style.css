@@ -70,9 +70,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #logo-img{
-  width: 7%;
+  width: 5%;
 position: absolute;
-margin-top: -55px !important;
+    margin-top: -55px !important;
 z-index: 99999999;
 }
 #header {
